@@ -1,0 +1,24 @@
+{
+  "name": "pluralsight-rotate",
+  "description": "Pluralsight rotate package",
+  "main": "rotate.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "rotate"
+  ],
+  "authors": [
+    "etrivinos"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
